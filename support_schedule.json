@@ -1,0 +1,26 @@
+{
+  "shift_groups": {
+    "group1": {
+      "operators": {
+        "@RomaYana": {"time_start": "06:00", "time_end": "18:00"},
+        "@dariavpn": {"time_start": "12:00", "time_end": "20:00"}
+      }
+    },
+    "group2": {
+      "operators": {
+        "@AnastasiaServiceVPN": {"time_start": "09:00", "time_end": "21:00"},
+        "@maria_sunlife": {"time_start": "11:00", "time_end": "19:00"}
+      }
+    }
+  },
+  "cycle_start_date": "2025-01-18",
+  "special_days": {
+    "2025-01-17": {
+      "@RomaYana": {"time_start": "08:00", "time_end": "16:00"},
+      "@maria_sunlife": {"time_start": "12:00", "time_end": "20:00"}
+    },
+    "2025-01-21": {
+        "@AnastasiaServiceVPN": {"time_start": "09:00", "time_end": "21:00"}
+    }
+  }
+}
