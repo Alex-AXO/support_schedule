@@ -14,25 +14,14 @@
     }
   },
   "cycle_start_date": "2025-01-27",
-  "special_days": {    
-    "2025-01-22": {
-        "@AnastasiaServiceVPN": {"time_start": "09:00", "time_end": "21:00"}
-    },
-    "2025-01-23": {
-        "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
-        "@dariavpn": {"time_start": "06:00", "time_end": "14:00"}
-    },
-    "2025-01-24": {
-        "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
-        "@dariavpn": {"time_start": "06:00", "time_end": "14:00"}
-    },
+  "special_days": { 
     "2025-01-25": {
         "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
         "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}
     },
     "2025-01-26": {
         "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
-        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}
+        "@dariavpn": {"time_start": "06:00", "time_end": "14:00"}
     }
   }
 }
