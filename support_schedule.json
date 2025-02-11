@@ -17,7 +17,15 @@
   "special_days": { 
     "2025-01-31": {
         "@AnastasiaServiceVPN": {"time_start": "12:00", "time_end": "20:00"},
-        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}    
+        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}  
+    },
+    "2025-02-12": {
+        "@AnastasiaServiceVPN": {"time_start": "14:00", "time_end": "22:00"},
+        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}
+    },
+    "2025-02-13": {
+        "@AnastasiaServiceVPN": {"time_start": "14:00", "time_end": "22:00"},
+        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}
     }
   }
 }
