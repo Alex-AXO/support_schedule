@@ -9,7 +9,7 @@
     "group2": {
       "operators": {
         "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
-        "@maria_sunlife": {"time_start": "06:00", "time_end": "14:00"}
+        "@maria_sunlife": {"time_start": "04:00", "time_end": "12:00"}
       }
     }
   },
